@@ -7,3 +7,5 @@ RUN conda env create --file /tmp/conda/environment.yml
 
 # Remove the security so the any user can use or remove the virtual environment.
 RUN sudo chmod -R 777 /opt/conda/
+
+LABEL org.opencontainers.image.description DESCRIPTION="Docker container for image processing training."
