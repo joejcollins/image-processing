@@ -1,1 +1,1 @@
-"""Tests for aqua_marina."""
+"""Tests for image_processing."""

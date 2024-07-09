@@ -1,7 +1,7 @@
 # Consistent set of make tasks.
 .DEFAULT_GOAL:=help  # because it's is a safe task.
 
-ENV_NAME = aqua-marina
+ENV_NAME = image-processing
 
 clean: # Remove the environment.
 	conda remove --name $(ENV_NAME) --all --yes

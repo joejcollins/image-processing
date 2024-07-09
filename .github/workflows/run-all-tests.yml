@@ -9,7 +9,7 @@ jobs:
   run_python_tests:
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/joejcollins/aqua-marina:latest
+      image: ghcr.io/joejcollins/image-processing:latest
 
     steps:
     - uses: actions/checkout@v4

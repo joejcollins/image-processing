@@ -2,7 +2,7 @@
 // the README at: https://github.com/devcontainers/templates/tree/main/src/anaconda
 {
 	"name": "Anaconda (Python 3)",
-	"image": "ghcr.io/joejcollins/aqua-marina:latest",
+	"image": "ghcr.io/joejcollins/image-processing:latest",
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/starship:1": {}
 	},

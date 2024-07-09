@@ -3,12 +3,12 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "aqua_marina"
+name = "image_processing"
 version = "0.1.0"
 authors = [
   { name="Joe Collins", email="joejcollins@gmail.com" },
 ]
-description = "Data project template."
+description = "Image Processing Template."
 readme = "README.md"
 requires-python = ">=3.11"
 classifiers = [
@@ -21,9 +21,9 @@ dependencies = [
 ]
 
 [project.urls]
-"homepage" = "https://github.com/joejcollins/aqua-marina"
-"repository" = "https://github.com/joejcollins/aqua-marina"
-"documentation" = "https://github.com/joejcollins/aqua-marina"
+"homepage" = "https://github.com/joejcollins/image-processing"
+"repository" = "https://github.com/joejcollins/image-processing"
+"documentation" = "https://github.com/joejcollins/image-processing"
 
 # Find all the packages in the project using automatic discovery (src-layout).
 [tool.setuptools.packages.find]

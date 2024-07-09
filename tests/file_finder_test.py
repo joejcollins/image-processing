@@ -1,6 +1,6 @@
 """Tests for the file finder service."""
 
-from aqua_marina import file_finder_service
+from image_processing import file_finder_service
 
 
 def test_is_present() -> None:

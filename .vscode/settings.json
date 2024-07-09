@@ -32,7 +32,7 @@
       "**/.DS_Store": true
     },
     "terminal.integrated.scrollback": 100000,
-    "python.defaultInterpreterPath": "/opt/conda/envs/aqua-marina/bin/python",
+    "python.defaultInterpreterPath": "/opt/conda/envs/image-processing/bin/python",
     "python.testing.pytestEnabled": true,
     "python.testing.unittestEnabled": false,
     "python.testing.pytestArgs": [

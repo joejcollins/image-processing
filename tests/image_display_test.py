@@ -1,6 +1,6 @@
 """Test the image display utilities."""
 import numpy
-from aqua_marina import image_display
+from image_processing import image_display
 from matplotlib import image
 
 
