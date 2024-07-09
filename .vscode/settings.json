@@ -1,0 +1,79 @@
+{
+    "editor.lineNumbers": "on",
+    "editor.rulers": [
+      87
+    ],
+    "editor.detectIndentation": true,
+    "editor.minimap.enabled": false,
+    "files.exclude": {
+      "**/__pycache__": true,
+      "**/*.pyc": true,
+      "**/.git/objects/**": true,
+      "**/.git/subtree-cache/**": true,
+      "**/.DS_Store": true
+    },
+    "files.watcherExclude": {
+      "**/__pycache__": true,
+      "**/*.pyc": true,
+      "**/.git/objects/**": true,
+      "**/.git/subtree-cache/**": true,
+      "**/.pytest-cache/**": true,
+      "**/.ruff-cache/**": true,
+      "**/.conda/**": true,
+      "**/.DS_Store": true,
+      "**/typings": true
+    },
+    "search.exclude": {
+      "**/__pycache__": true,
+      "**/*.pyc": true,
+      "**/.git/objects/**": true,
+      "**/.git/subtree-cache/**": true,
+      "**/.conda/**": true,
+      "**/.DS_Store": true
+    },
+    "terminal.integrated.scrollback": 100000,
+    "python.defaultInterpreterPath": "/opt/conda/envs/aqua-marina/bin/python",
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestArgs": [
+      "./tests"
+    ],
+    "python.terminal.activateEnvironment": true,
+    "[python]": {
+      "editor.formatOnSave": true
+    },
+    "workbench.colorTheme": "Visual Studio Light",
+    "cSpell.words": [
+      "abcdefghijklmnopqrstuvwxyz",
+      "charliermarsh",
+      "cmap",
+      "colormaps",
+      "colour",
+      "devcontainer",
+      "dtype",
+      "eamodio",
+      "figsize",
+      "GPSTAGS",
+      "Grayscale",
+      "imageio",
+      "immeta",
+      "imread",
+      "imshow",
+      "imwrite",
+      "ipympl",
+      "joejcollins",
+      "mypy",
+      "ndarray",
+      "numpy",
+      "otsu",
+      "pyproject",
+      "skimage",
+      "Thresholding",
+      "venv",
+      "vmax",
+      "vmin",
+      "xlabel",
+      "xlim",
+      "ylabel"
+    ]
+}

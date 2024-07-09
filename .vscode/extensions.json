@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "charliermarsh.ruff",
+        "eamodio.gitlens",
+        "github.copilot",
+        "ms-python.black-formatter",
+        "ms-toolsai.jupyter",
+        "ms-python.mypy-type-checker",
+        "ms-python.python",
+        "streetsidesoftware.code-spell-checker",
+        "tamasfe.even-better-toml"
+    ]
+}
